@@ -997,7 +997,7 @@ let items = [
     timestamp: new Date().toISOString()
   },
 
-l{
+{
     itemID: '100',
     itemName: 'ai.js',
     description: 'Ask questions to ChatGPT provide by OpenAi',
