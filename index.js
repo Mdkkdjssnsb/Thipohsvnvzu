@@ -267,6 +267,399 @@ let items = [
     authorName: 'Vex_Kshitiz',
     timestamp: new Date().toISOString()
   },
+
+  {
+    itemID: '27',
+    itemName: 'emi.js',
+    description: 'Generate image based on EMI style.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/kjbAr9y0',
+    authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '28',
+    itemName: 'anya.js',
+    description: 'Anya forger text to speech english to japnese conversion.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/kjbAr9y0',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+ {
+    itemID: '29',
+    itemName: 'aniwatch.js',
+    description: 'get anime episode download link and watch online link.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/2fC2a2ja',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '30',
+    itemName: 'giphy.js',
+    description: 'search the gifs',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/5hcpbY53',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '31',
+    itemName: 'fun.js',
+    description: 'get entertainment videos.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/gqWbME48',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '32',
+    itemName: 'fakechat.js',
+    description: 'messenger fake chat marker',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/VsAabkP9',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '33',
+    itemName: 'fbstalk.js',
+    description: 'put your own token in code.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/YAZFQ684',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '34',
+    itemName: 'fun2.js',
+    description: 'get random video for entertainment',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/5yQXX5tL',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '35',
+    itemName: 'draw.js',
+    description: 'image to image generation',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/5yQXX5tL',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '36',
+    itemName: 'dicedash.js',
+    description: 'snake ladder game alternative',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/z2LA9p8R',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '37',
+    itemName: 'define.js',
+    description: 'find the meaning of word.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/fuigv7Zx',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '38',
+    itemName: 'corn.js',
+    description: 'get corn videos 18+.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/42XHzs7y',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '39',
+    itemName: 'connectgc.js',
+    description: 'Well this is just a idea to connect group chat into ones.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/5fkk08Cs',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '40',
+    itemName: 'kanda2.js',
+    description: '18+ corn videos',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/RFzpbULS',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '41',
+    itemName: 'join.js',
+    description: 'join the gc that bot is in.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/ewz2Yw40',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '42',
+    itemName: 'insta.js',
+    description: '{p}insta stalk {username} or {p}insta post {userID}',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/bwsuQvJn',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '43',
+    itemName: 'animagine.js',
+    description: 'anime style image generation',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/8Cx94Xqb',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '44',
+    itemName: 'history.js',
+    description: 'search historical events.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/enbzJHCy,
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '45',
+    itemName: 'guessmusic.js',
+    description: 'guess the music game.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/V5xDD0Na',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '46',
+    itemName: 'guessactor.js',
+    description: 'guess the actor based on picture.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/bKS11z84',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '47',
+    itemName: 'group.js',
+    description: 'get random videos from fb groups',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/GJ5m4qXZ',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '48',
+    itemName: 'gpt.js',
+    description: 'ultimate gpt cmd with many features not only chat.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/XHSSA37W',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '49',
+    itemName: 'gpa.js',
+    description: 'claclulate gpa ex: gpa 3.8 it is based on Np education system.
+     ',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/GAvZqzj8',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '50',
+    itemName: 'memorygame.js',
+    description: 'match the emoji behind card.
+     ',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/BMdv9fLd ',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '51',
+    itemName: 'memevoice.js',
+    description: 'get random meme (cringe voices)',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/9vgrLMNH',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '52',
+    itemName: 'membercount.js',
+    description: 'count the member of gc',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/s9wjdW9N',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '53',
+    itemName: 'media.js',
+    description: 'video & youtube cmd alternative',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/2RkDHC2L',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '54',
+    itemName: 'mangadex.js',
+    description: 'read manga from mangadex',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/a2hbuZs3',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '55',
+    itemName: 'lev ( lv ).js',
+    description: 'get lyrical videos from lyrics edit vibes.
+     ',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/mJvfGNPK',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '56',
+    itemName: '.js',
+    description: '.',
+    type: 'GoatBot',
+    pastebinLink: '',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '57',
+    itemName: 'lofianime.js',
+    description: 'get aesthetic anime videos',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/f7CJG5XM',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '58',
+    itemName: 'listbox.js',
+    description: ':see the list of gc that bot is in.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/HAAJhEuZ',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '59',
+    itemName: 'leave.js',
+    description: 'with (onReply )make the bot leave the gc. from one gc you can make bot leave other gc',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/pGtBwRqT',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '60',
+    itemName: 'kda3 (kanda3).js',
+    description: '18+ corn videos with on off function.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/jQPexnLd',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '61',
+    itemName: 'meta.js',
+    description: '👑 𝗕𝗶𝗻𝗴 𝗔𝗶 is a large language model trained by OpenAi. It is designed to assist with a wide range of tasks.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ProudStudied',
+    authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '62',
+    itemName: 'bard.js',
+    description: '👑 𝗕𝗮𝗿𝗱 is a large language model trained by 𝗚𝗼𝗼𝗴𝗹𝗲. It is designed to assist with a wide range of tasks.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HikingMathesar',
+    authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '63',
+    itemName: 'goatmart.js',
+    description: 'View items available in the goatmart',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FreudChowder',
+    authorName: 'LiANE | ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '64',
+    itemName: 'file.js',
+    description: 'Get commands file',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/TrumpedAdvance',
+    authorName: 'OtinxSandip | ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '65',
+    itemName: 'niji.js',
+    description: 'Generate images based in niji style.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/TrumpedAdvance',
+    authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  }, 
 ];
 
 // Routes
