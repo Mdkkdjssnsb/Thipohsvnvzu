@@ -274,6 +274,16 @@ app.get('/api/items', (req, res) => {
   res.json(items);
 });
 
+app.get('/api/items/name', (req, res) => {
+  const itemName = req.params.name;
+  const item = items.find(i => i.itemName.toLowerCase() === itemName.toLowerCase());
+  if (item) {
+    res.json(item);
+  } else {
+    res.status(404).json({ error: 'Item not found' });
+  }
+});
+
 app.get('/api/items/:id', (req, res) => {
   const itemID = req.params.id;
   const item = items.find(i => i.itemID === itemID);
