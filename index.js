@@ -667,7 +667,7 @@ let items = [
     timestamp: new Date().toISOString()
   },
 
-l{
+{
     itemID: '67',
     itemName: 'abs.js',
     description: 'Random 6-pack photos',
