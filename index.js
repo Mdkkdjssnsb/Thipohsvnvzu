@@ -501,8 +501,7 @@ let items = [
 {
     itemID: '50',
     itemName: 'memorygame.js',
-    description: 'match the emoji behind card.
-     ',
+    description: 'match the emoji behind card.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.com/raw/BMdv9fLd ',
     authorName: 'Vex_Kshitiz',
@@ -552,8 +551,7 @@ let items = [
 {
     itemID: '55',
     itemName: 'lev ( lv ).js',
-    description: 'get lyrical videos from lyrics edit vibes.
-     ',
+    description: 'get lyrical videos from lyrics edit vibes.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.com/raw/mJvfGNPK',
     authorName: 'Vex_Kshitiz',
