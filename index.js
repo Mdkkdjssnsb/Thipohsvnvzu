@@ -491,8 +491,7 @@ let items = [
 {
     itemID: '49',
     itemName: 'gpa.js',
-    description: 'claclulate gpa ex: gpa 3.8 it is based on Np education system.
-     ',
+    description: 'claclulate gpa ex: gpa 3.8 it is based on Np education system.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.com/raw/GAvZqzj8',
     authorName: 'Vex_Kshitiz',
