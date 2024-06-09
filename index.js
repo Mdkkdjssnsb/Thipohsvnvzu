@@ -443,7 +443,7 @@ let items = [
     itemName: 'history.js',
     description: 'search historical events.',
     type: 'GoatBot',
-    pastebinLink: 'https://pastebin.com/raw/enbzJHCy,
+    pastebinLink: 'https://pastebin.com/raw/enbzJHCy',
     authorName: 'Vex_Kshitiz',
     timestamp: new Date().toISOString()
   },
