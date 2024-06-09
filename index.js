@@ -653,8 +653,397 @@ let items = [
     itemName: 'niji.js',
     description: 'Generate images based in niji style.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/TrumpedAdvance',
+    pastebinLink: 'https://paste.c-net.org/SeafoodSandra',
     authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  }, 
+  {
+    itemID: '66',
+    itemName: 'accept.js',
+    description: 'Make friends via Facebook ID.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/EnvelopeTrillion',
+    authorName: 'Black',
+    timestamp: new Date().toISOString()
+  },
+
+l{
+    itemID: '67',
+    itemName: 'abs.js',
+    description: 'Random 6-pack photos',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/BrushFatty',
+    authorName: 'Black',
+    timestamp: new Date().toISOString()
+  },
+
+ {
+    itemID: '68',
+    itemName: 'groupinfo.js',
+    description: 'Not Available',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/HandledPleases',
+    authorName: 'Mirai Team',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '69',
+    itemName: 'adc.js',
+    description: 'Apply code from buildtooldev and pastebin',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/DigestRefined',
+    authorName: 'D-Jukie',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '70',
+    itemName: 'adden.js',
+    description: ' writer brothers :>',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SquintBobbi',
+    authorName: 'Black',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '71',
+    itemName: 'adduser.js',
+    description: 'Add user to group by link or uid',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/BradfordHuddled',
+    authorName: 'D-Jukie',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '72',
+    itemName: 'adduser.js',
+    description: 'Add user to the group by link or id.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SteaksEnergy',
+    authorName: 'ProCoderMew',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '73',
+    itemName: 'admin.js',
+    description: 'Manage bot admin',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/FloresCards',
+    authorName: 'Mirai Team',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '74',
+    itemName: 'onlyadmin.js',
+    description: 'Exclusive Mode For QTV And Admin bot',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/AlabamaHocus',
+    authorName: 'Horizon Lucius',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '75',
+    itemName: 'adminupdate.js',
+    description: 'Toggle group information update messages',
+    type: 'MiraiBot',
+    pastebinLink: 'Toggle group information update messages',
+    authorName: 'D-Jukie',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '76',
+    itemName: 'advice.js',
+    description: 'advice but tagalog',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/CitationCollars',
+    authorName: 'Joshua Sy',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '77',
+    itemName: 'jas.js',
+    description: 'ERIC (Education Resources Information Center) Ed Gov is to serve as a comprehensive online resource for education-related research, information, and resources.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/MissionsCaptain',
+    authorName: 'JOHN RÉ PORAS',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '78',
+    itemName: 'affect.js',
+    description: 'edit-image.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BriberyProdigy',
+    authorName: 'John Lester',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '79',
+    itemName: 'afk.js',
+    description: 'AFK',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/InvolveSwift',
+    authorName: 'D-Jukie',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '80',
+    itemName: 'genmage.js',
+    description: '𝙂𝙚𝙣𝙚𝙧𝙖𝙩 𝘼𝙄 𝙞𝙢𝙖𝙜𝙚𝙨 .',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/ChrissyDisable',
+    authorName: 'jameslim',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '81',
+    itemName: 'ai.js',
+    description: 'ask questions to bard Ai',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SuspectsSpotting',
+    authorName: 'Ralph',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '82',
+    itemName: 'tag.js',
+    description: 'Tag all group mamber',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SchnappsWarpath',
+    authorName: 'Mirai Team',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '83',
+    itemName: 'thread.js',
+    description: 'Ban/Unban/Del/Remove',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/NautilusStreak',
+    authorName: 'Black',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '84',
+    itemName: 'allid.js',
+    description: 'User and group id in one file.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SymphonyThomas',
+    authorName: 'Blue',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '85',
+    itemName: 'animescrape.js',
+    description: 'scrape anime.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/BreachSkies',
+    authorName: 'lester navarra',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '86',
+    itemName: 'aniquote.js',
+    description: 'get random anime quotes',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/AlienMitosis',
+    authorName: 'ZiaRein',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '87',
+    itemName: 'approve.js',
+    description: 'approve the gc using bots xD.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/PardonedLilly',
+    authorName: 'Nam',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '88',
+    itemName: 'stalk.js',
+    description: 'Get facebook users information via tag/uid/reply',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/CabernetChuckles',
+    authorName: 'Chards Bot',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '89',
+    itemName: 'autoaccept.js',
+    description: 'Make friends via Facebook ID',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/HumorousPennies ',
+    authorName: 'Arjhil',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '90',
+    itemName: 'autoban.js',
+    description: 'Automatically bans users when certain sensitive keywords are detected in the message',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ArrogantPutrid',
+    authorName: 'August Quinn',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '91',
+    itemName: 'autobanthread.js',
+    description: 'automatically ban users if spambots (random image)',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/ChapelMuslims',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '92',
+    itemName: 'avatar.js',
+    description: 'Not Available',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/HastingsShook',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '93',
+    itemName: 'daily.js',
+    description: 'Get daily random gifts.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/EclipseAdvance',
+    authorName: 'ZiaRein',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '94',
+    itemName: 'lyrics.js',
+    description: 'Get song lyrics',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/FuelsUndead',
+    authorName: 'Grey',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '95',
+    itemName: 'pinterest.js',
+    description: '.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SuspenseSales',
+    authorName: 'Meow',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '96',
+    itemName: 'pexels.js',
+    description: 'Search for images on Pexels',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/RacedShared',
+    authorName: 'August Quinn',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '97',
+    itemName: 'shell.js',
+    description: 'shell.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/ScarceCasually',
+    authorName: 'John Lester',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '98',
+    itemName: 'slot.js',
+    description: 'slot your money.',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/CatalogPlight',
+    authorName: 'ZiaRein',
+    timestamp: new Date().toISOString()
+  },
+
+  {
+    itemID: '99',
+    itemName: 'pexels.js',
+    description: 'Search images using pexels API',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HousingHavana',
+    authorName: 'ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+l{
+    itemID: '100',
+    itemName: 'ai.js',
+    description: 'Ask questions to ChatGPT provide by OpenAi',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://paste.c-net.org/CommercePlayful',
+    authorName: 'OtinxSandip | ArYAN',
+    timestamp: new Date().toISOString()
+  },
+
+ {
+    itemID: '101',
+    itemName: 'ai.js',
+    description: 'Ai language model',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://paste.c-net.org/WeddingLoaned',
+    authorName: 'OtinxSandip',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '102',
+    itemName: 'sing.js',
+    description: 'Play music through YouTube link or search keyword',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/UnjustStrangle',
+    authorName: 'D-Jukie',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '103',
+    itemName: 'weather.js',
+    description: 'Get weather informations',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/WhileMinority',
+    authorName: 'ZiaRein',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '104',
+    itemName: 'user.js',
+    description: 'Manage users',
+    type: 'MiraiBot',
+    pastebinLink: 'https://paste.c-net.org/SightingExpand',
+    authorName: 'Mirai Team',
     timestamp: new Date().toISOString()
   }, 
 ];
