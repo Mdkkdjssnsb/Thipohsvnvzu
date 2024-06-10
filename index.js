@@ -1397,7 +1397,7 @@ let items = [
 {
     itemID: '139',
     itemName: 'impress.js',
-    description: 'impress the girl's.',
+    description: 'impress the girls.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.pl/view/raw/72d5ae92',
     authorName: 'Kshitiz',
