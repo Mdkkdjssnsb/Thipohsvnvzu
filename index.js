@@ -1046,6 +1046,500 @@ let items = [
     authorName: 'Mirai Team',
     timestamp: new Date().toISOString()
   }, 
+  {
+    itemID: '105',
+    itemName: 'post.js',
+    description: 'view the post of fb groups.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/BYrusZB8',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+l{
+    itemID: '106',
+    itemName: 'pmvd.js',
+    description: 'random prgramming memes video',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://pastebin.com/raw/Maf8qdfi',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+ {
+    itemID: '107',
+    itemName: 'pmeme.js',
+    description: 'random programming memes image
+     ',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://pastebin.com/raw/KPWu5s6D',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '108',
+    itemName: 'playcard.js',
+    description: 'one to one play card game. check winner yourself on each move🤡',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/PdNMvfGQ',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '109',
+    itemName: 'play.js',
+    description: 'play the lyrics with music',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/6EaEFGkj',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '110',
+    itemName: 'notify.js',
+    description: 'sent the notification to gc support attachments too.
+     ',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/njahqvE2',
+    authorName: 'Mirai Team',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '111',
+    itemName: 'nn.js',
+    description: 'check the nickname of your and others in gc.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/DFm7dA5p',
+    authorName: 'ProCoderMew',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '112',
+    itemName: 'mvdo.js',
+    description: 'Manage bot admin',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/tqRyaDnm',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '113',
+    itemName: ':memstole.js',
+    description: 'stole the members from other gc to yours',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/Y8HaNcNx',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '114',
+    itemName: 'memmorytest.js',
+    description: 'test your memory power.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/BYrusZB8',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '115',
+    itemName: 'uptime.js',
+    description: 'view the bot uptime',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/9955c3e8',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '116',
+    itemName: 'torf.js',
+    description: 'true or false quiz game.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/kX4trPFN',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '117',
+    itemName: 'tinyurl.js',
+    description: 'alternative of imgurl',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/JwuiGigB',
+    authorName: 'Vex_Kahitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '118',
+    itemName: 'time.js',
+    description: 'view the current  timezone of any city',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/5d28062d',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '119',
+    itemName: 'ss.js',
+    description: 'screenshot the webpage .',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/Z7hPtXms',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '120',
+    itemName: 'spygc.js',
+    description: 'spy the gc without joing that gc you can see members name admin names and other info',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/D0dvepLN',
+    authorName: 'Vex_Kahitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '121',
+    itemName: 'spotify.js',
+    description: 'play music from spotify supports audio recogonization.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/PSjgTMvw',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '122',
+    itemName: 'spamkick.js',
+    description: '(updated) now available on off function for each threads.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/QxAYNZBF',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '123',
+    itemName: 'slot.js',
+    description: 'advanced slot games..',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/Hv8yaJAh',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '124',
+    itemName: 'berojgar.js',
+    description: 'see the top 15 berogar of gc.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/13e23136',
+    authorName: 'lester navarra',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '125',
+    itemName: 'sing.js',
+    description: 'sing cmd with audio recogonization version 2.0',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/8Z8KeSw4',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '126',
+    itemName: 'shoti.js',
+    description: 'shoti cmd',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/dThYtszC',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '127',
+    itemName: 'ws.js',
+    description: 'wallpaper search cmd',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/JupEEjjR',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '128',
+    itemName: 'wordguess.js',
+    description: 'guess the word game',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/npB2FRcP',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '129',
+    itemName: 'war.js',
+    description: 'ultimate war cmd.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/54b4c17d',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '130',
+    itemName: 'voicify.js',
+    description: 'tool to remove vocal from music or video',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/WKqEywY6',
+    authorName: 'Vex_Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '131',
+    itemName: 'vip.js',
+    description: 'handle vip members',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/BXb87Czs',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '132',
+    itemName: 'view.js',
+    description: 'A simple cmd to see the image and video present inside direct link or watch links. like tinyurl imgurl driveDirect url imgbb etc...',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/H1tpAFSJ',
+    authorName: 'Kahitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '133',
+    itemName: 'video.js',
+    description: 'youtube alternative 2.0',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/RZR0Jr3J',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '134',
+    itemName: 'football.js',
+    description: 'get the recent football match highlights randomly.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/KzaedKFQ',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '135',
+    itemName: 'love.js',
+    description: 'love bot will calculate your love percentage with random members of gc.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/2403cxw5',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '136',
+    itemName: 'tiktok.js',
+    description: 'tiktokk video search cmd.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/3KiznDK5',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '137',
+    itemName: 'gcadmin.js',
+    description: 'add or remove members from gc admin position. gcadmin add mention or uid to remove gcadmin remove uid or mention.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BuyingFloods',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '138',
+    itemName: 'anigif.js',
+    description: 'Now work on category Ex:- anigif {category } Available 25+ category..',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DefiedPleaded',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '139',
+    itemName: 'news.js',
+    description: 'get latest Nepali  news🗞️',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/KZL2Qz5g',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '139',
+    itemName: 'impress.js',
+    description: 'impress the girl's.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/72d5ae92',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '140',
+    itemName: 'fbdl.js',
+    description: 'non api fb video downloader.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/cdedd73a',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '141',
+    itemName: 'bored.js',
+    description: 'get random suggestion',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.pl/view/raw/07882901',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '142',
+    itemName: 'hornyai.js',
+    description: 'Horny Ai',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HygieneFestivus',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '143',
+    itemName: 'status.js',
+    description: 'get random whatsapp status video {p} status / reply by number',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/ehJJWMVf',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '144',
+    itemName: 'album.js',
+    description: 'store all users attachments like audios vidoes and images.(updated)added onReply in album{file} ',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/3zMQBAmz',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '145',
+    itemName: 'frogjump.js',
+    description: 'frogjump first choose box between 13 14 15 16 than 9 10 11 12 han 5 6 7 8 and finally first row 1 2 3 4',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/mi2yJpyd',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '146',
+    itemName: 'antiadmin.js',
+    description: 'anti gc admin: If someone removes you from admin, the bot will add you again as admin. If the bot is removed from admin.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/41cWxm4D',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '147',
+    itemName: 't2e.js',
+    description: 'convert text into emojis',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/DmXCH7TX',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '148',
+    itemName: 'chords.js',
+    description: 'get music chords.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/Ly7HVXXZ',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '149',
+    itemName: 'fb.js',
+    description: 'fb private vdo downloader. fb v ( link ) or fb a ( link )',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/94U1PMFz',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '150',
+    itemName: 'music.js',
+    description: 'ultimate music cmd for playing music frm ytb playlist. and with many features..',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/mFbSvfZN',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '151',
+    itemName: 'tikstalk.js',
+    description: 'stalk tiktok user and see their uploaded post to reply info msg by number to see posts.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/zU2yVJwT',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '152',
+    itemName: 'waifudex.js',
+    description: 'waifudex on or waifudex off / after turned on you will get random waifu iamges for guessing their names in time interval from 5 to 15.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/LbahBCeX',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '153',
+    itemName: 'anya.js',
+    description: '(updated) anya forger cai with voice.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/DQxKmK6Q',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '154',
+    itemName: 'usage.js',
+    description: 'get the bar chart of most used cmds of your bot.',
+    type: 'GoatBot',
+    pastebinLink: 'https://pastebin.com/raw/N48EsAx8',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
 ];
 
 // Routes
