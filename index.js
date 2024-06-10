@@ -1690,7 +1690,7 @@ let items = [
 {
     itemID: '170',
     itemName: 'lyrics.js',
-    description: This command allows you to search song lyrics from Google',
+    description: 'This command allows you to search song lyrics from Google',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/HandbookWasting',
     authorName: 'ArYAN',
