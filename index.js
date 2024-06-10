@@ -1496,7 +1496,7 @@ let items = [
 {
     itemID: '150',
     itemName: 'music.js',
-    description: 'ultimate music cmd for playing music frm ytb playlist. and with many features..',
+    description: 'ultimate music cmd for playing music frm ytb playlist. and with many features.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.com/raw/mFbSvfZN',
     authorName: 'Kshitiz',
@@ -1560,8 +1560,7 @@ let items = [
   {
     itemID: '157',
     itemName: 'admin.js',
-    description: 'random programming memes image
-     ',
+    description: 'random programming memes image.',
     type: 'GoatbotBot',
     pastebinLink: 'https://paste.c-net.org/CastorLonely',
     authorName: 'Admins Management System',
