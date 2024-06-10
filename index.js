@@ -633,7 +633,7 @@ let items = [
     itemName: 'goatmart.js',
     description: 'View items available in the goatmart',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/FreudChowder',
+    pastebinLink: 'https://paste.c-net.org/StupiderProfound',
     authorName: 'LiANE | ArYAN',
     timestamp: new Date().toISOString()
   },
@@ -1883,6 +1883,479 @@ let items = [
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/ClutterSinister',
     authorName: 'Loufi | SiAM | Shikaki',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '190',
+    itemName: 'ytb.js',
+    description: 'Download video, audio or view video information on YouTube',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/KismetFleet',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '191',
+    itemName: 'youtube.js',
+    description: 'Get videos from YouTube ',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://paste.c-net.org/GalaxyChopper',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+
+ {
+    itemID: '192',
+    itemName: 'ws.js',
+    description: 'Search for wallpapers based on a keyword',
+    type: 'GoatbotBot',
+    pastebinLink: 'https://paste.c-net.org/TristinWaived',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '193',
+    itemName: 'work.js',
+    description: 'Perform tasks and earn rewards.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FoyerPaved',
+    authorName: 'LiANE',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '194',
+    itemName: 'word.js',
+    description: ' the word by dictionary',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CopingPumbaa',
+    authorName: 'JV',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '195',
+    itemName: 'wishcard.js',
+    description: 'Make a wishcard',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BrandyAvoided',
+    authorName: 'junjam × AceGun',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '196',
+    itemName: 'willsmith.js',
+    description: 'Not Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/MopesTenth',
+    authorName: 'MILAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '197',
+    itemName: 'wiki.js',
+    description: 'search on wikipedia',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SinksFootage',
+    authorName: 'MILAN',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '198',
+    itemName: 'wholesome.js',
+    description: 'wholesome avatar for crush/lover.',
+    type: 'GoatBot',
+    pastebinLink: 'hhttps://paste.c-net.org/VeniceHeather',
+    authorName: 'AceGun',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '199',
+    itemName: 'wanted.js',
+    description: 'wanted frame for fun purpose',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/WatersAdios',
+    authorName: 'AceGun',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '200',
+    itemName: 'wallpaper.js',
+    description: 'Get wallpapers.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PennantBanks',
+    authorName: 'Samir Œ',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '201',
+    itemName: 'waifu.js',
+    description: 'Get random waifu pics',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ChessStashed',
+    authorName: 'tas3n',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '202',
+    itemName: 'v2a.js',
+    description: 'Convert Video to audio',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ClearingBombings',
+    authorName: 'arfan',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '203',
+    itemName: 'uptime.js',
+    description: 'Shows the duration for which the server has been running',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/AwardedDespises',
+    authorName: 'Unknown',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '203',
+    itemName: 'uptime.js',
+    description: 'Displays the uptime of the bot',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/AliasesDarned',
+    authorName: 'XyryllPanget',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '204',
+    itemName: 'upscale.js',
+    description: 'Upscale your image',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HandymanLenny',
+    authorName: 'JARiF',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '205',
+    itemName: 'ai.js',
+    description: 'An AI command powered by Neuronspike, modified by joshua apostol',
+    type: 'NasaAutoBot',
+    pastebinLink: 'https://paste.c-net.org/LennoxFeedback',
+    authorName: 'Joshua Apostol',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '206',
+    itemName: 'author.js',
+    description: 'Displays information about the script\'s usage policy and author.',
+    type: 'NasaAutoBot',
+    pastebinLink: 'https://paste.c-net.org/JadedObtain',
+    authorName: 'Developer',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '207',
+    itemName: 'god.js',
+    description: 'Send a message to the bot owner.',
+    type: 'NasaAutoBot',
+    pastebinLink: 'https://paste.c-net.org/MagicFaults',
+    authorName: 'Developer',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '208',
+    itemName: 'gpt.js',
+    description: 'Query GPT-4o for a response.',
+    type: 'NasaAutoBot',
+    pastebinLink: 'Query GPT-4o for a response',
+    authorName: 'Joshua Apostol | Rui',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '209',
+    itemName: 'help.js',
+    description: 'Displays information about available commands',
+    type: 'NasaAutoBot',
+    pastebinLink: 'https://paste.c-net.org/RosterMidgets',
+    authorName: 'Developer',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '210',
+    itemName: 'prefix.js',
+    description: 'Replies with the prefix.',
+    type: 'NasaAutoBot',
+    pastebinLink: 'https://paste.c-net.org/EduardDeeds',
+    authorName: 'Developer',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '211',
+    itemName: 'upt.js',
+    description: 'Uptime of the bot',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CrumbleChimney',
+    authorName: 'Deku',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '212',
+    itemName: 'ai.js',
+    description: 'Not Available ',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/ZillionRoxanne',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '213',
+    itemName: 'alluser.js',
+    description: 'Not Available',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/HeavyMurdoch',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '214',
+    itemName: 'anime.js',
+    description: 'Anime',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/ScareResumes',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '215',
+    itemName: 'approve.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/MumbleBedford',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '216',
+    itemName: 'autosee .js',
+    description: 'Turn on/off automatically seen when new messages are available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/SalazarMovers',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '217',
+    itemName: 'baymax.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/DunneVisitors',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '218',
+    itemName: 'besh.js',
+    description: 'Not Available .',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/SisterlyPeachy',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '219',
+    itemName: 'blue.js',
+    description: 'Blue Ai.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/FriesScones',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '220',
+    itemName: 'dictionary.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/FringeHurling',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '221',
+    itemName: 'file.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/AromaNectar',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+
+{
+    itemID: '222',
+    itemName: 'help.js',
+    description: 'View commands modules .',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/OceanAntics',
+    authorName: 'Not Available.',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '223',
+    itemName: 'listbox.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/NewmansRapids',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '224',
+    itemName: 'llam.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/NewmansRapids',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '225',
+    itemName: 'meko.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/TripleEscrow',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '226',
+    itemName: 'music.js',
+    description: 'Get song from YouTube',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/FarmersInspect',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '227',
+    itemName: 'out.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/VendorSideshow',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '228',
+    itemName: 'pending.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/LyndonGruber',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '229',
+    itemName: 'sendnoti.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/LyndonGruber',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '230',
+    itemName: 'sing.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/SlavingDrops',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '231',
+    itemName: 'stalk.js',
+    description: 'Cmd is not working.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/ChristieHoffa',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '232',
+    itemName: 'sim.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/CrateWinking',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '233',
+    itemName: 'uid.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/MelvinRussians',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '234',
+    itemName: 'uptime.js',
+    description: 'Not Available.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/BribesAspiring',
+    authorName: 'Marjhun Baylon',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '235',
+    itemName: 'adc.js',
+    description: 'Upload files to Pastebin and sends link.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/SellsPilar',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '236',
+    itemName: 'adduser.js',
+    description: 'Add user to group by id.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/SellsPilar',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '237',
+    itemName: 'chat.js',
+    description: 'remove user from the group if chat off.',
+    type: 'AutoBot',
+    pastebinLink: 'https://paste.c-net.org/HelpinStages',
+    authorName: 'Jonell Magallanes',
     timestamp: new Date().toISOString()
   },
 ];
