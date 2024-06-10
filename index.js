@@ -1099,8 +1099,7 @@ let items = [
 {
     itemID: '110',
     itemName: 'notify.js',
-    description: 'sent the notification to gc support attachments too.
-     ',
+    description: 'sent the notification to gc support attachments too.',
     type: 'GoatBot',
     pastebinLink: 'https://pastebin.com/raw/njahqvE2',
     authorName: 'Mirai Team',
@@ -1549,7 +1548,7 @@ let items = [
     timestamp: new Date().toISOString()
   },
 
-l{
+{
     itemID: '156',
     itemName: 'balance.js',
     description: 'Check your balance or transfer money',
@@ -1558,8 +1557,7 @@ l{
     authorName: 'ArYAN',
     timestamp: new Date().toISOString()
   },
-
- {
+  {
     itemID: '157',
     itemName: 'admin.js',
     description: 'random programming memes image
