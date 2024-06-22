@@ -1,7 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const { v4: uuidv4 } = require('uuid'); // Import UUID library
-const fs = require('fs');
 
 const app = express();
 const port = 3000;
@@ -9,15 +7,14 @@ const port = 3000;
 // Middleware
 app.use(bodyParser.json());
 
-// Load items from JSON file
-let items = loadItemsFromFile();
+let items = [];
 
 // Routes
 app.get('/api/items', (req, res) => {
   res.json(items);
 });
 
-app.get('/api/items/name/:name', (req, res) => { 
+app.get('/api/items/name', (req, res) => {
   const itemName = req.params.name;
   const item = items.find(i => i.itemName.toLowerCase() === itemName.toLowerCase());
   if (item) {
@@ -48,33 +45,31 @@ app.get('/api/items/author/:authorName', (req, res) => {
 });
 
 app.post('/api/items', (req, res) => {
-  const { itemName, description, type, authorName, url } = req.body;
-  if (!itemName || !authorName || !url) {
+  const { itemName, description, type, pastebinLink, authorName } = req.body;
+  if (!itemName || !pastebinLink || !authorName) {
     return res.status(400).json({ error: 'Missing required fields' });
   }
   const newItem = {
-    itemID: uuidv4(),
+    itemID: Math.floor(Math.random() * 100000), // Generates a random number for itemID
     itemName,
     description,
     type,
-    pastebinLink: `${url}/raw/${generateRandomText()}`,
+    pastebinLink,
     authorName,
     timestamp: new Date().toISOString()
   };
   items.push(newItem);
-  saveItemsToFile(items);
   res.status(201).json(newItem);
 });
 
 app.put('/api/items/:id', (req, res) => {
   const itemID = req.params.id;
-  const { itemName, description, type, authorName } = req.body;
+  const { itemName, description, type, pastebinLink, authorName } = req.body;
   const itemIndex = items.findIndex(i => i.itemID === itemID);
 
   if (itemIndex !== -1) {
-    const updatedItem = { ...items[itemIndex], itemName, description, type, authorName };
+    const updatedItem = { ...items[itemIndex], itemName, description, type, pastebinLink, authorName };
     items[itemIndex] = updatedItem;
-    saveItemsToFile(items);
     res.json(updatedItem);
   } else {
     res.status(404).json({ error: 'Item not found' });
@@ -87,7 +82,6 @@ app.delete('/api/items/:id', (req, res) => {
 
   if (itemIndex !== -1) {
     items.splice(itemIndex, 1);
-    saveItemsToFile(items);
     res.status(204).send();
   } else {
     res.status(404).json({ error: 'Item not found' });
@@ -97,33 +91,3 @@ app.delete('/api/items/:id', (req, res) => {
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
-
-// Helper functions
-function generateRandomText() {
-  const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
-  let result = '';
-  const length = 10;
-  for (let i = 0; i < length; i++) {
-    result += characters.charAt(Math.floor(Math.random() * characters.length));
-  }
-  return result;
-}
-
-function loadItemsFromFile() {
-  try {
-    const data = fs.readFileSync('store.json', 'utf8');
-    return JSON.parse(data);
-  } catch (err) {
-    console.error('Error reading items from file:', err);
-    return [];
-  }
-}
-
-function saveItemsToFile(items) {
-  try {
-    fs.writeFileSync('store.json', JSON.stringify(items, null, 2));
-    console.log('Items saved to file.');
-  } catch (err) {
-    console.error('Error saving items to file:', err);
-  }
-}
