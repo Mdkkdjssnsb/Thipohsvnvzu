@@ -149,7 +149,7 @@ let items = [
     description: 'accept users friend request.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/VagueMower',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -158,7 +158,7 @@ let items = [
     description: 'add user in groups via uid or profile link.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/GrapesMarine',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -185,7 +185,7 @@ let items = [
     description: 'ban users from thread.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/TriangleSkeleton',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -203,7 +203,7 @@ let items = [
     description: 'send message to bot admins.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/KeyboardBiker',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -221,7 +221,7 @@ let items = [
     description: 'get daily gifts.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/ShopsBronson',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -248,7 +248,7 @@ let items = [
     description: 'kick user.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/PuzzlesParoled',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -257,7 +257,7 @@ let items = [
     description: 'Send notification to all group chat.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/TeethSniff',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -266,7 +266,7 @@ let items = [
     description: 'check system uptime.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/PlatoonTaker',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -275,7 +275,142 @@ let items = [
     description: ' user management.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/PicturedVicinity',
-    authorName: 'NTKhnag',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '31',
+    itemName: 'goatmart.js',
+    description: 'GoatMart Link.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/RoomiesStick',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '32',
+    itemName: 'onlyadminbox.js',
+    description: 'Turn on onlyadminbox function..',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CottageLizards',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '33',
+    itemName: 'pair.js',
+    description: 'Not Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LongedAires',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '34',
+    itemName: 'pending.js',
+    description: 'Manage unapproved threads.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CrispyStarter',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '35',
+    itemName: 'richest.js',
+    description: 'Get top 10 user list.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ObtainGiles',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '36',
+    itemName: 'leave.js',
+    description: 'Command bot to leave Group.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PirateZandt',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '37',
+    itemName: 'slot.js',
+    description: 'Slot your money.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BudgeKeeps',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '38',
+    itemName: 'prefix.js',
+    description: 'Not Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LondonCheryl',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '39',
+    itemName: 'thread.js',
+    description: 'Thread Management.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BreedingJocks',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '40',
+    itemName: 'tid.js',
+    description: 'Get Thread ID.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SwingImbecile',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '41',
+    itemName: 'uid.js',
+    description: 'Get User ID.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/OccupiedBaloney',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '42',
+    itemName: 'translate.js',
+    description: ' Translate Words.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/GilesRealm',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '43',
+    itemName: 'warn.js',
+    description: 'Manage users in thread.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FiletSensor',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '44',
+    itemName: 'video.js',
+    description: 'Download video from YouTube.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/RecycledSlowly',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '45',
+    itemName: 'imgbb.js',
+    description: 'Upload your image.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/AntiquesHunted',
+    authorName: 'Its Aryan',
     timestamp: new Date().toISOString()
   },
 ];
