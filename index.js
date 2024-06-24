@@ -413,6 +413,240 @@ let items = [
     authorName: 'Its Aryan',
     timestamp: new Date().toISOString()
   },
+{
+    itemID: '46',
+    itemName: 'info.js',
+    description: 'GoatMart Link.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ShrinkDamon',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '47',
+    itemName: 'file.js',
+    description: 'Turn on onlyadminbox function..',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SlidingSplat',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '48',
+    itemName: 'pair.js',
+    description: 'Not Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LongedAires',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '49',
+    itemName: 'edit.js',
+    description: 'Edit bot msgs.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/StrainedLuxury',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '50',
+    itemName: 'ai.js',
+    description: 'GPT-4',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/OwnedMidge',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '51',
+    itemName: 'help.js',
+    description: 'Not Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/WhilstParallel',
+    authorName: 'NTKhang | Zedric',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '52',
+    itemName: 'join.js',
+    description: 'Join the group that bot is in.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/InvitesImminent',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '53',
+    itemName: 'leaveall.js',
+    description: 'Left bot from chats.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ScatterCatalyst',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '54',
+    itemName: 'leaveall.js',
+    description: 'Leave all groups.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PoisonEnters',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '55',
+    itemName: 'npm.js',
+    description: 'Get NPM package informations',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/MannedExpired',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '56',
+    itemName: 'notify.js',
+    description: 'Send notification to all chatbox.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CastorWiring',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '57',
+    itemName: 'approve.js',
+    description: 'Approve group chats.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HatchingClues',
+    authorName: 'Jun',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '58',
+    itemName: 'arrest.js',
+    description: 'Arrest a rapist.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/IgnitionLivvie',
+    authorName: 'Milan',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '59',
+    itemName: 'autolink.js',
+    description: 'Download video from YouTube, Instagram, Tiktok,.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/NobelDrills',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '60',
+    itemName: 'help.js',
+    description: 'Get commands list.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SellinPersist',
+    authorName: 'Aesther',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '61',
+    itemName: 'help.js',
+    description: 'Get commands list.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/KillsFades',
+    authorName: 'NTKhang | Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '62',
+    itemName: 'info.js',
+    description: 'Get owner or bot informations.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/WedgedThrows',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '63',
+    itemName: 'obfuscate.js',
+    description: 'Obfuscate Javascript.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BeddingOttawa',
+    authorName: 'Cliff',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '64',
+    itemName: 'prefix.js',
+    description: 'Get bot prefix information.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/AlgeriaBennet',
+    authorName: 'Tokodori_Frtiz',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '65',
+    itemName: 'videox.js',
+    description: 'Download videos from YouTube.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/StanfordStarts',
+    authorName: 'Samir Œ',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '66',
+    itemName: 'gpt.js',
+    description: 'OpenAi.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/MoodsTrolley',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '67',
+    itemName: 'owner.js',
+    description: 'Get bot owner informations.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FeebleGlands',
+    authorName: 'Tokodori',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '68',
+    itemName: 'adc.js',
+    description: 'Get command pastebin link.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SpikingDoorbell',
+    authorName: 'Loid Butter',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '69',
+    itemName: 'age.js',
+    description: 'Count your age.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ReplayValley',
+    authorName: 'Samir Œ',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '70',
+    itemName: 'all.js',
+    description: 'Tag all group members',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DaylightOctober',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  }, 
+{
+    itemID: '71',
+    itemName: 'antiout.js',
+    description: ' Enable / disable antiout.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HalfwaySymbiote',
+    authorName: 'AceGun',
+    timestamp: new Date().toISOString()
+  },
 ];
 
 // Routes
