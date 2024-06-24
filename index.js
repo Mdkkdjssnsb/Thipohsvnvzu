@@ -266,7 +266,7 @@ let items = [
     description: 'check system uptime.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/PlatoonTaker',
-    authorName: 'NTKhang',
+    authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
 {
@@ -283,7 +283,7 @@ let items = [
     itemName: 'goatmart.js',
     description: 'GoatMart Link.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/RoomiesStick',
+    pastebinLink: 'https://paste.c-net.org/DebraThinkin',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -645,6 +645,24 @@ let items = [
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/HalfwaySymbiote',
     authorName: 'AceGun',
+    timestamp: new Date().toISOString()
+  },
+    {
+    itemID: '72',
+    itemName: 'bing.js',
+    description: 'Generate images from bing.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SummonRipper',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+    itemID: '73',
+    itemName: 'autoseen.js',
+    description: 'No Discription Available.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/AdequateShowgirl',
+    authorName: 'Jas',
     timestamp: new Date().toISOString()
   },
 ];
