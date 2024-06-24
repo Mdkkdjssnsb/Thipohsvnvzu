@@ -416,7 +416,7 @@ let items = [
 {
     itemID: '46',
     itemName: 'info.js',
-    description: 'GoatMart Link.',
+    description: 'Get bot or owner informations.',
     type: 'GoatBot',
     pastebinLink: 'https://paste.c-net.org/ShrinkDamon',
     authorName: 'Itz Aryan',
