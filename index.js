@@ -13,7 +13,7 @@ let items = [
     itemName: 'sdxl.js',
     description: 'Generate Your Imagination Using SDXL API.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/LooksCoconut',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/yareOI',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -22,7 +22,7 @@ let items = [
     itemName: 'prompt.js',
     description: 'Generate Unique Prompts based on Midjourney.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ShavedPrefer',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/2iKJRw',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -31,7 +31,7 @@ let items = [
     itemName: 'promptgen.js',
     description: 'Generate Simple Prompts',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ShallExisting',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/c6jlZX',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -40,7 +40,7 @@ let items = [
     itemName: 'movieinfo.js',
     description: 'Generate some movie informations.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/WhiterRenounce',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/9fdx1T',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -49,7 +49,7 @@ let items = [
     itemName: 'pinterest.js',
     description: 'Get images from Pinterest.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/OutragedDislikes',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/yi2O9T',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -58,7 +58,7 @@ let items = [
     itemName: 'videoinfo.js',
     description: 'view YouTube video informations',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/SquishyForties',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/T3RPqz',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -67,7 +67,7 @@ let items = [
     itemName: 'lyrics.js',
     description: 'Get song lyrics.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/AlvarezRebuilt',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/bPmlYV',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -76,7 +76,7 @@ let items = [
     itemName: 'sing.js',
     description: 'Download Song From YouTube.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/BreathedLucia',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/kgusXw',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -85,7 +85,7 @@ let items = [
     itemName: 'sdxl.js',
     description: 'Generate image using Sdxl API (13 models)',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/LooksCoconut',
+    pastebinLink: '',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -94,7 +94,7 @@ let items = [
     itemName: 'sim.js',
     description: 'Chat with SimiSimi',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ArrestsAirline',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/qSCNhO',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -103,7 +103,7 @@ let items = [
     itemName: 'pexels.js',
     description: 'Search images uaing pexels API',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ComposeSelfless',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/9zgsxl',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -112,7 +112,7 @@ let items = [
     itemName: 'stalk.js',
     description: 'Get facebook users informations.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/FindingBringin',
+    pastebinLink: '',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -121,7 +121,7 @@ let items = [
     itemName: '4k.js',
     description: ' Upscale your image',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/QueenCruel',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/35oxbG',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -130,7 +130,7 @@ let items = [
     itemName: 'anigen.js',
     description: 'Generate images based on anime style.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/StakedStacey',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/oERk47',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -139,7 +139,7 @@ let items = [
     itemName: 'replicate.js',
     description: 'Generate images from Replicate API',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/LeotardBangs',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/x6srKT',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -148,7 +148,7 @@ let items = [
     itemName: 'accept.js',
     description: 'accept users friend request.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/VagueMower',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/BreT0v',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -157,7 +157,7 @@ let items = [
     itemName: 'adduser.js',
     description: 'add user in groups via uid or profile link.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/GrapesMarine',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/afxbmy',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -166,8 +166,8 @@ let items = [
     itemName: 'admin.js',
     description: 'admin management.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/GrampsAnimals',
-    authorName: 'NTKhnag',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/R5lxWQ',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -175,7 +175,7 @@ let items = [
     itemName: 'balance.js',
     description: 'check your balance .',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/DivorcesVenice',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/D4Zw9J',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -184,7 +184,7 @@ let items = [
     itemName: 'ban.js',
     description: 'ban users from thread.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/TriangleSkeleton',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/p7ByeA',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -193,7 +193,7 @@ let items = [
     itemName: 'bank.js',
     description: 'Bank system .',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/MortuarySimian',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/CvRf67',
     authorName: 'LiANE | Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -202,7 +202,7 @@ let items = [
     itemName: 'callad.js',
     description: 'send message to bot admins.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/KeyboardBiker',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/0ZvosU',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -211,8 +211,8 @@ let items = [
     itemName: 'count.js',
     description: 'count your messages.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/CausesStyles',
-    authorName: 'Itz Aryan',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/krE707',
+    authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
 {
@@ -220,7 +220,7 @@ let items = [
     itemName: 'daily.js',
     description: 'get daily gifts.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ShopsBronson',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/4B62xn',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -229,7 +229,7 @@ let items = [
     itemName: 'delete.js',
     description: 'Delete commands models.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/HerbertRamelle',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/BENpa4',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -238,7 +238,7 @@ let items = [
     itemName: 'flip.js',
     description: 'Flip your money.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/HonestyJerry',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/jfFVSO',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -247,7 +247,7 @@ let items = [
     itemName: 'kick.js',
     description: 'kick user.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/PuzzlesParoled',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/lqO0xP',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -256,7 +256,7 @@ let items = [
     itemName: 'notification.js',
     description: 'Send notification to all group chat.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/TeethSniff',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/i4mY5g',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -265,7 +265,7 @@ let items = [
     itemName: 'uptime.js',
     description: 'check system uptime.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/PlatoonTaker',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/4Weka6',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -274,7 +274,7 @@ let items = [
     itemName: 'user.js',
     description: ' user management.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/PicturedVicinity',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/qFUY1u',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -283,7 +283,7 @@ let items = [
     itemName: 'goatmart.js',
     description: 'GoatMart Link.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/DebraThinkin',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/wi5Bx9',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -292,7 +292,7 @@ let items = [
     itemName: 'onlyadminbox.js',
     description: 'Turn on onlyadminbox function..',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/CottageLizards',
+    pastebinLink: '',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -301,7 +301,7 @@ let items = [
     itemName: 'pair.js',
     description: 'Not Available.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/LongedAires',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/9pM57r',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
@@ -310,7 +310,7 @@ let items = [
     itemName: 'pending.js',
     description: 'Manage unapproved threads.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/CrispyStarter',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/oXxYL7',
     authorName: 'NTKhang',
     timestamp: new Date().toISOString()
   },
@@ -319,7 +319,7 @@ let items = [
     itemName: 'richest.js',
     description: 'Get top 10 user list.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/ObtainGiles',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/dWDL4F',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
