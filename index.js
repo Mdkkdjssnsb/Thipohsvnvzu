@@ -580,7 +580,7 @@ let items = [
     itemName: 'prefix.js',
     description: 'Get bot prefix information.',
     type: 'GoatBot',
-    pastebinLink: ',
+    pastebinLink: '',
     authorName: 'Tokodori_Frtiz',
     timestamp: new Date().toISOString()
   },
