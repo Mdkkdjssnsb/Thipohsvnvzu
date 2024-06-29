@@ -8,7 +8,38 @@ const port = 3000;
 app.use(bodyParser.json());
 
 let items = [
-  
+ itemID: 1,
+    itemName: 'goatbin.js',
+    description: 'Get commands short link.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LudlowStamp',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+  itemID: 2,
+    itemName: 'spotify.js',
+    description: 'Download songs from Spotify.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DarknessVitamin',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+  itemID: 3,
+    itemName: 'info.js',
+    description: 'Get system, bot and owne informations..',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ProbeDecay',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+  itemID: 4,
+    itemName: 'goatstore.js',
+    description: 'This is a store of commands.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LudlowStamp',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
 ];
 
 // Function to generate a sequential itemID
