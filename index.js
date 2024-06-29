@@ -8,15 +8,7 @@ const port = 3000;
 app.use(bodyParser.json());
 
 let items = [
-  {
-    itemID: 1,
-    itemName: 'sdxl.js',
-    description: 'Generate Your Imagination Using SDXL API.',
-    type: 'GoatBot',
-    pastebinLink: 'http://goatmart-bin.onrender.com/raw/yareOI',
-    authorName: 'Itz Aryan',
-    timestamp: new Date().toISOString()
-  },
+  
 ];
 
 // Function to generate a sequential itemID
