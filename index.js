@@ -1,76 +1,37 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const fs = require('fs');
-const path = require('path');
-const multer = require('multer');
 
 const app = express();
-const port = process.env.PORT || 3000;
-const dataFile = path.join(__dirname, 'data.json');
-const upload = multer({ dest: 'uploads/' });
-
-// Middleware to log IP address to console
-app.use((req, res, next) => {
-  const clientIP = req.ip;
-  console.log(`Request from IP: ${clientIP}`);
-  next();
-});
+const port = 3000;
 
 // Middleware
 app.use(bodyParser.json());
 
-// Helper functions to read and write data
-const readData = () => {
-  try {
-    const data = fs.readFileSync(dataFile, 'utf8');
-    return JSON.parse(data);
-  } catch (err) {
-    return [];
-  }
-};
+let items = [
+  {
+    itemID: 1,
+    itemName: 'sdxl.js',
+    description: 'Generate Your Imagination Using SDXL API.',
+    type: 'GoatBot',
+    pastebinLink: 'http://goatmart-bin.onrender.com/raw/yareOI',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+];
 
-const writeData = (data) => {
-  fs.writeFileSync(dataFile, JSON.stringify(data, null, 2));
-};
-
-// Generate a numeric ID
-const generateNumericId = () => {
-  return Date.now().toString(); // Or any other logic for numeric IDs
-};
+// Function to generate a sequential itemID
+function generateNextItemID() {
+  return items.length > 0 ? items[items.length - 1].itemID + 1 : 1;
+}
 
 // Routes
-app.get('/api/ip', (req, res) => {
-  const clientIP = req.ip;
-  res.json({ ip: clientIP });
-});
-
 app.get('/api/items', (req, res) => {
-  const items = readData();
   res.json(items);
 });
 
-app.post('/api/items', upload.single('file'), (req, res) => {
-  const { itemName, description, type, pastebinLink, authorName } = req.body;
-  const items = readData();
-  const newItem = {
-    id: generateNumericId(),
-    itemName,
-    description,
-    type,
-    pastebinLink,
-    authorName,
-    file: req.file ? req.file.path : null,
-    timestamp: new Date(),
-    randomNumber: Math.floor(Math.random() * 4) + 1
-  };
-  items.push(newItem);
-  writeData(items);
-  res.status(201).json(newItem);
-});
-
-app.get('/api/items/:id', (req, res) => {
-  const items = readData();
-  const item = items.find(i => i.id === req.params.id);
+app.get('/api/items/name/:name', (req, res) => {
+  const itemName = req.params.name;
+  const item = items.find(i => i.itemName.toLowerCase() === itemName.toLowerCase());
   if (item) {
     res.json(item);
   } else {
@@ -78,39 +39,71 @@ app.get('/api/items/:id', (req, res) => {
   }
 });
 
-app.put('/api/items/:id', (req, res) => {
+app.get('/api/items/:id', (req, res) => {
+  const itemID = parseInt(req.params.id);
+  const item = items.find(i => i.itemID === itemID);
+  if (item) {
+    res.json(item);
+  } else {
+    res.status(404).json({ error: 'Item not found' });
+  }
+});
+
+app.get('/api/items/author/:authorName', (req, res) => {
+  const authorName = req.params.authorName;
+  const authorItems = items.filter(item => item.authorName === authorName);
+  if (authorItems.length > 0) {
+    res.json(authorItems);
+  } else {
+    res.status(404).json({ error: 'No items found for this author' });
+  }
+});
+
+app.post('/api/items', (req, res) => {
   const { itemName, description, type, pastebinLink, authorName } = req.body;
-  const items = readData();
-  const index = items.findIndex(i => i.id === req.params.id);
-  if (index !== -1) {
-    items[index] = {
-      ...items[index],
-      itemName,
-      description,
-      type,
-      pastebinLink,
-      authorName,
-    };
-    writeData(items);
-    res.json(items[index]);
+  const itemID = generateNextItemID();
+  const newItem = {
+    itemID,
+    itemName,
+    description,
+    type,
+    pastebinLink,
+    authorName,
+    timestamp: new Date().toISOString()
+  };
+  items.push(newItem);
+  res.status(201).json(newItem);
+});
+
+app.put('/api/items/:id', (req, res) => {
+  const itemID = parseInt(req.params.id);
+  const { itemName, description, type, pastebinLink, authorName } = req.body;
+  const itemIndex = items.findIndex(i => i.itemID === itemID);
+
+  if (itemIndex !== -1) {
+    items[itemIndex].itemName = itemName;
+    items[itemIndex].description = description;
+    items[itemIndex].type = type;
+    items[itemIndex].pastebinLink = pastebinLink;
+    items[itemIndex].authorName = authorName;
+    res.json(items[itemIndex]);
   } else {
     res.status(404).json({ error: 'Item not found' });
   }
 });
 
 app.delete('/api/items/:id', (req, res) => {
-  const items = readData();
-  const index = items.findIndex(i => i.id === req.params.id);
-  if (index !== -1) {
-    items.splice(index, 1);
-    writeData(items);
+  const itemID = parseInt(req.params.id);
+  const itemIndex = items.findIndex(i => i.itemID === itemID);
+
+  if (itemIndex !== -1) {
+    items.splice(itemIndex, 1);
     res.status(204).send();
   } else {
     res.status(404).json({ error: 'Item not found' });
   }
 });
 
-// Start the server
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
