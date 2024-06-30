@@ -8,7 +8,8 @@ const port = 3000;
 app.use(bodyParser.json());
 
 let items = [
- itemID: 1,
+ {
+  itemID: 1,
     itemName: 'goatbin.js',
     description: 'Get commands short link.',
     type: 'GoatBot',
@@ -16,6 +17,7 @@ let items = [
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
+ {
   itemID: 2,
     itemName: 'spotify.js',
     description: 'Download songs from Spotify.',
@@ -24,6 +26,7 @@ let items = [
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
+ {
   itemID: 3,
     itemName: 'info.js',
     description: 'Get system, bot and owne informations..',
@@ -32,6 +35,7 @@ let items = [
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
+ {
   itemID: 4,
     itemName: 'goatstore.js',
     description: 'This is a store of commands.',
