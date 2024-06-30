@@ -179,6 +179,222 @@ let items = [
     authorName: 'NTKhang | Itz Aryan',
     timestamp: new Date().toISOString()
   },
+ {
+  itemID: 21,
+    itemName: 'pinterest.js',
+    description: 'This command allows you to search for images on Pinterest based on a given query and fetch a specified number of images.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FartherTiles',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 22,
+    itemName: 'pexels.js',
+    description: 'his command allows you to search for images on pexels based on a given query and fetch a specified number of images.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DrawnRecalled',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 23,
+    itemName: 'delete.js',
+    description: 'Delete command files.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PsychicLicence',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 24,
+    itemName: 'flip.js',
+    description: 'Flip a coins and bets on heads or tails.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LiableJordan',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 25,
+    itemName: 'help.js',
+    description: 'This command allows you to see all available commands list ( dont change my credits ).',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ReunitedHabits',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 26,
+    itemName: 'imgbb.js',
+    description: 'Upload image to imgbb by replying to photo.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PavementHershey',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 27,
+    itemName: 'kick.js',
+    description: 'Kick members from chat box with additional features.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DecoderRespond',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 28,
+    itemName: 'leave.js',
+    description: 'Get off.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/InitialAncient',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 29,
+    itemName: 'pending.js',
+    description: 'Approve pending groups in spam list or unapproved groups.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ComposedTaking',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 30,
+    itemName: 'richest.js',
+    description: 'Get top 10 users list ',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SubduralDarkness',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 31,
+    itemName: 'sing.js',
+    description: 'Download Songs using YTDL package.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HankeyBashed',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+itemID: 32,
+    itemName: 'thread.js',
+    description: 'Manage group chat in bot system',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FossilSwallows',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 33,
+    itemName: 'tid.js',
+    description: 'View threadID of your group chat',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/TippySprayed',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 34,
+    itemName: 'translate.js',
+    description: 'Translate text to the desired language',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BirthDensity',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 35,
+    itemName: 'uid.js',
+    description: 'View facebook user id of user',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BellsProving',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 36,
+    itemName: 'uptime.js',
+    description: 'Get System Information',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LisztExisted',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 37,
+    itemName: 'slot.js',
+    description: 'Game slot with bonus rounds, multipliers, and interactive elements',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/DownsSensed',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 38,
+    itemName: 'user.js',
+    description: 'User management system',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/LlanfairFurious',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 39,
+    itemName: 'video.js',
+    description: 'Download video from YouTube.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/ApprovalSatyr',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 40,
+    itemName: 'warn.js',
+    description: 'warn member in group, if they have 3 warns, they will be banned',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/GesturesRusso',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 41,
+    itemName: 'onlyadminbox.js',
+    description: 'turn on/off only admin box can use bot',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/YeastWinter',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 42,
+    itemName: 'onlyadmin.js',
+    description: 'turn on/off only admin can use bot',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/MittensDonoghue',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 43,
+    itemName: 'autolink.js',
+    description: 'Auto video downloader for Instagram, Facebook, and TikTok',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/SurelyDrapes',
+    authorName: 'Kshitiz',
+    timestamp: new Date().toISOString()
+  },
+{
+itemID: 44,
+    itemName: 'adc.js',
+    description: 'adc command',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/HopperGrubbing',
+    authorName: 'Loid Butter',
+    timestamp: new Date().toISOString()
+  },
    ];
 
 // Function to generate a sequential itemID
