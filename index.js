@@ -44,7 +44,142 @@ let items = [
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
-];
+{
+  itemID: 5,
+    itemName: 'lyrics.js',
+    description: 'Get song lyrics.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/JuggleDawson',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 6,
+    itemName: 'notification.js',
+    description: 'This command allows to send message to all grouo chat where your bot is added.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/NieceReceiver',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 7,
+    itemName: 'prefix.js',
+    description: 'Check bot system.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/MineralOcean',
+    authorName: 'NTKhang',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 8,
+    itemName: 'sing.js',
+    description: 'Download songs from YT-MUSIC ( non prefix)',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/PaganPsychos',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 9,
+    itemName: '4k.js',
+    description: 'Upscale images.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/RidingWired',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 10,
+    itemName: 'accept.js',
+    description: 'Accept users friends requests..',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/TissuesTrumpet',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 11,
+    itemName: 'adduser.js',
+    description: 'Add user to your group chats.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FigureConfine',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 12,
+    itemName: 'admin.js',
+    description: 'Admins management system.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BailiffShambles',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 13,
+    itemName: 'balance.js',
+    description: 'Check your balance or transfer money.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FragmentPrices',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 14,
+    itemName: 'ban.js',
+    description: 'Ban Users from box chat.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/WrittenDiddly',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 16,
+    itemName: 'bank.js',
+    description: 'The bank command provides various banking services including games.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/FiftyAllie',
+    authorName: 'LiANE| Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 17,
+    itemName: 'callad.js',
+    description: 'Send message to bot admins',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/EnticingSeeming',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+{
+ itemID: 18,
+    itemName: 'bing.js',
+    description: 'Generates images based on provided text using Bing API.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/TamponsDeclared',
+    authorName: 'Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 19,
+    itemName: 'count.js',
+    description: 'View the number of messages of all members or yourself (since the bot joined the group).',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/CleanedBullies',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+ {
+  itemID: 20,
+    itemName: 'daily.js',
+    description: 'Get daily random gifts.',
+    type: 'GoatBot',
+    pastebinLink: 'https://paste.c-net.org/BrewsterPappy',
+    authorName: 'NTKhang | Itz Aryan',
+    timestamp: new Date().toISOString()
+  },
+   ];
 
 // Function to generate a sequential itemID
 function generateNextItemID() {
