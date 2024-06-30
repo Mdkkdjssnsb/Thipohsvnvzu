@@ -40,7 +40,7 @@ let items = [
     itemName: 'goatstore.js',
     description: 'This is a store of commands.',
     type: 'GoatBot',
-    pastebinLink: 'https://paste.c-net.org/LudlowStamp',
+    pastebinLink: 'https://paste.c-net.org/MowedCharts',
     authorName: 'Itz Aryan',
     timestamp: new Date().toISOString()
   },
